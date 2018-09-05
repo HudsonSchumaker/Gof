@@ -6,7 +6,6 @@ package br.com.schumaker.concurrencypatterns.activeobject;
  * @since 18/09/2014
  */
 public class OriginalClass {
-
     private double val = 0.0;
 
     void doSomething() {

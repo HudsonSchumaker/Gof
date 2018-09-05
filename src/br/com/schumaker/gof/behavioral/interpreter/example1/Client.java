@@ -21,9 +21,9 @@ public class Client {
         tree.add(new ExpressaoDezena());
         tree.add(new ExpressaoUm());
 
-        for (Expressao exp : tree) {
+        tree.forEach((exp) -> {
             exp.interpretador(contexto);
-        }
+        });
 
         String resultado = String.valueOf(contexto.getOutput());
         System.out.println(resultado);

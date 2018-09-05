@@ -29,12 +29,8 @@ public abstract class Expressao {
     }
 
     protected abstract String nove();
-
     protected abstract String cinco();
-
     protected abstract String quatro();
-
     protected abstract String um();
-
     protected abstract int multiplo();
 }

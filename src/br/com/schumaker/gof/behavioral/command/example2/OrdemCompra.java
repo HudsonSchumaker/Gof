@@ -6,7 +6,7 @@ package br.com.schumaker.gof.behavioral.command.example2;
  */
 public class OrdemCompra implements OrdemCommand {
 
-    private NegociarAcao negociar;
+    private final NegociarAcao negociar;
 
     public OrdemCompra(NegociarAcao negociar) {
         this.negociar = negociar;

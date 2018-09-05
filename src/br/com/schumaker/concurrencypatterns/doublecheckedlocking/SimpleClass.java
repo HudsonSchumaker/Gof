@@ -6,7 +6,6 @@ package br.com.schumaker.concurrencypatterns.doublecheckedlocking;
  * @since 18/09/2014
  */
 public class SimpleClass {
-
     public SimpleClass() {
     }
 }

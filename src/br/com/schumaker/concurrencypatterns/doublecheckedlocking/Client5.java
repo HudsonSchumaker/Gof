@@ -8,12 +8,10 @@ package br.com.schumaker.concurrencypatterns.doublecheckedlocking;
 public class Client5 {
 
     private static class SimpleClassHolder {
-
         public static SimpleClass simpleClass = new SimpleClass();
     }
 
     public static SimpleClass getSimpleClass() {
-
         return SimpleClassHolder.simpleClass;
     }
 
