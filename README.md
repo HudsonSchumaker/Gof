@@ -2,9 +2,7 @@ Hudson Schumaker - 2014
 
 Design Patterns - Gof, No Gof and Concurrency Patterns
 
-This code will be a part of Book.
-
-Hudson Schumaker - Desgin Pattners Quick Reference Guide 2014
+Hudson Schumaker - Desgin Pattners Quick Reference Guide 2019
 
 -Intro
 	Type of pattners
