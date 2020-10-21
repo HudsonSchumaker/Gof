@@ -106,7 +106,7 @@ Hudson Schumaker - Desgin Pattners Quick Reference Guide 2014
 -Chapter XIV
 	[]Using Observer and Visitor 
 	
--Bibliografy
+-Bibliografy <br>
 http://en.wikipedia.org/wiki/Concurrency_pattern <br>
 http://en.wikipedia.org/wiki/Design_Patterns     <br>
 http://en.wikipedia.org/wiki/Behavioral_pattern  <br>
