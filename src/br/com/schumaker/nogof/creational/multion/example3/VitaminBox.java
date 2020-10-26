@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package br.com.schumaker.nogof.creational.multion.example3;
 
 import java.util.ArrayList;
