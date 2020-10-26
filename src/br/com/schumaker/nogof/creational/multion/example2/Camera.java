@@ -11,8 +11,8 @@ public class Camera {
     private Integer hardwareId;
     private String location;
     private static final HashMap<Integer, Camera> instance = new HashMap<>();
-    private static final Camera cam1;//melhora feita por mim
-    private static final Camera cam2;//melhora feita por mim
+    private static final Camera cam1; // melhora feita por mim
+    private static final Camera cam2; // melhora feita por mim
 
     static {
         cam1 = new Camera();
