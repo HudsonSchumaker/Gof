@@ -17,8 +17,8 @@ public class VitaminBox {
 
     public static void add(Vitamin vit) {
         getVitaminBox(vit.getName()) // get VitaminBox by Vitamin name
-                .getVitamins(). // get Vitamin list
-                add(vit); // add Vitamin
+                .getVitamins().      // get Vitamin list
+                add(vit);            // add Vitamin
     }
 
     public Vitamin getVitamin() {
