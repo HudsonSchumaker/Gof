@@ -3,7 +3,7 @@ Chapter II
 Neste capítulo vamos ver o nosso primeiro padrão de projeto o Singleton.
 
 Singleton:
-Em engenharia de software, o padrão singleton é um padrão de projeto que restringe a instanciação de uma classe
+	Em engenharia de software, o padrão singleton é um padrão de projeto que restringe a instanciação de uma classe
 para um objeto. Isso é útil quando exatamente um objeto é necessário para coordenar as ações de todo o sistema.
 Encapsulamento "inicialização just-in-time" ou "inicialização no primeiro uso". 
 
