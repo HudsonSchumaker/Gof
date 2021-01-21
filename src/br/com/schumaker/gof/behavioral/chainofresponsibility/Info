@@ -1,4 +1,4 @@
-Objective: Represents a chain of receiving objects for processing a series
+Purpose: Represents a chain of receiving objects for processing a series
 different requests. These receiving objects pass the request along the chain until
 one or more objects to resolve it.
 
