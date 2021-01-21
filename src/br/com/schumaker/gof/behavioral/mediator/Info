@@ -2,3 +2,8 @@ Purpose:
 With the mediator pattern, communication between objects is encapsulated within a mediator object. 
 Objects no longer communicate directly with each other, but instead communicate through the mediator.
 This reduces the dependencies between communicating objects, thereby reducing coupling.
+
+Objetivo:
+Com o padrão de mediador, a comunicação entre objetos é encapsulada em um objeto de mediador.
+Os objetos não se comunicam mais diretamente uns com os outros, mas se comunicam por meio do mediador.
+Isso reduz as dependências entre os objetos em comunicação, reduzindo assim o acoplamento.
