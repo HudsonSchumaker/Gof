@@ -1,3 +1,7 @@
+Objective: Represents a chain of receiving objects for processing a series
+different requests. These receiving objects pass the request along the chain until
+one or more objects to resolve it.
+
 Objetivo: Representa um encadeamento de objetos receptores para o processamento de uma série
 de solicitações diferentes. Esses objetos receptores passam a solicitação ao longo da cadeia até 
 que um ou vários objetos a tratem.
