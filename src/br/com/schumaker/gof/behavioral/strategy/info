@@ -1,3 +1,7 @@
 Purpose:
 That enables selecting an algorithm at runtime. Instead of implementing a single algorithm directly, 
 code receives run-time instructions as to which in a family of algorithms to use.
+
+Objetivo:
+Isso permite selecionar um algoritmo em tempo de execução. Em vez de implementar um único algoritmo diretamente,
+o código recebe instruções em tempo de execução sobre quais algoritmos usar em uma família.
