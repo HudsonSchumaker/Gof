@@ -112,4 +112,5 @@ http://en.wikipedia.org/wiki/Creational_pattern  <br>
 http://en.wikipedia.org/wiki/Structural_pattern  <br>
 https://refactoring.guru/design-patterns/template-method <br>
 https://refactoring.guru/design-patterns/state <br>
+https://refactoring.guru/design-patterns/strategy <br>
 
