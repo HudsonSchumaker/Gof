@@ -110,4 +110,6 @@ http://en.wikipedia.org/wiki/Design_Patterns     <br>
 http://en.wikipedia.org/wiki/Behavioral_pattern  <br>
 http://en.wikipedia.org/wiki/Creational_pattern  <br>
 http://en.wikipedia.org/wiki/Structural_pattern  <br>
-https://refactoring.guru/design-patterns/template-method
+https://refactoring.guru/design-patterns/template-method <br>
+https://refactoring.guru/design-patterns/state <br>
+
