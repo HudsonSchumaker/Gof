@@ -5,7 +5,8 @@ Design Patterns - Gof, No Gof and Concurrency Patterns
 Hudson Schumaker - Desgin Pattners Quick Reference Guide 2019
 
 -Intro
-	
+
+
 	Type of pattners
 		-Creational 
 		-Structural
