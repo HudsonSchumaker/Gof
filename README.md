@@ -6,7 +6,6 @@ Hudson Schumaker - Desgin Pattners Quick Reference Guide 2019
 
 -Intro
 
-
 	Type of pattners
 		-Creational 
 		-Structural
