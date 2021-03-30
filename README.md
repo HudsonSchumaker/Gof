@@ -42,5 +42,6 @@ http://en.wikipedia.org/wiki/Structural_pattern  <br>
 https://refactoring.guru/design-patterns/template-method <br>
 https://refactoring.guru/design-patterns/state <br>
 https://refactoring.guru/design-patterns/strategy <br>
-https://refactoring.guru/design-patterns/chain-of-responsibility
+https://refactoring.guru/design-patterns/chain-of-responsibility <br>
+https://refactoring.guru/design-patterns/decorator
 
