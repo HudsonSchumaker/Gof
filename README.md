@@ -43,5 +43,5 @@ https://refactoring.guru/design-patterns/template-method <br>
 https://refactoring.guru/design-patterns/state <br>
 https://refactoring.guru/design-patterns/strategy <br>
 https://refactoring.guru/design-patterns/chain-of-responsibility <br>
-https://refactoring.guru/design-patterns/decorator
-
+https://refactoring.guru/design-patterns/decorator <br>
+https://refactoring.guru/design-patterns/composite
