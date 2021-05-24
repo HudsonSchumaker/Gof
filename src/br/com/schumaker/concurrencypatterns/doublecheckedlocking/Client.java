@@ -17,7 +17,7 @@ public class Client {
     }
 
     public static void main(String[] args) {
-        Client c = new Client();
-        c.getSimpleClass();
+        Client client = new Client();
+        client.getSimpleClass();
     }
 }
