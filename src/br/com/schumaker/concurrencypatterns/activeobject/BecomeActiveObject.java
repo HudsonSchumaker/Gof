@@ -5,7 +5,6 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * @author Hudson Schumaker
- * @version 1.0.0
  * @since 14/09/2014
  */
 
