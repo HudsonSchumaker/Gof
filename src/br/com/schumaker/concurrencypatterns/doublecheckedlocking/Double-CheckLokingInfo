@@ -4,4 +4,4 @@ does the actual locking logic proceed.
 
 Objetivo: Utilizado para reduzir a sobrecarga de aquisição de um bloqueio por testar o primeiro critério 
 de bloqueio ("dica de bloqueio") sem efectivamente adquirir o bloqueio. Apenas se o critério de 
-verificação de bloqueio indica que o bloqueio é necessário que a lógica de bloqueio real continuar.
+verificação de bloqueio indica que o bloqueio é necessário que a lógica de bloqueio real continuar. 
