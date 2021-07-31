@@ -3,7 +3,7 @@ package br.com.schumaker.concurrencypatterns.balking;
 
 /**
  *
- * @author hudson.schumaker
+ * @author Hudson Schumaker
  */
 public class Job {
 
