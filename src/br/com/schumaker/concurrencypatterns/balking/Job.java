@@ -1,7 +1,6 @@
 package br.com.schumaker.concurrencypatterns.balking;
 
 /**
- *
  * @author Hudson Schumaker
  */
 public class Job {
