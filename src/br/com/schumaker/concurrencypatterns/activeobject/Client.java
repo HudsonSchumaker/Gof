@@ -7,6 +7,7 @@ package br.com.schumaker.concurrencypatterns.activeobject;
 public class Client {
 
     public static void main(String[] args) {
+        
         OriginalClass originalClass = new OriginalClass();
         for (int k = 0; k < 1000000; k++) {
             originalClass.doSomething();
