@@ -1,4 +1,3 @@
-
 package br.com.schumaker.concurrencypatterns.balking;
 
 /**
