@@ -32,6 +32,10 @@ public class BecomeActiveObject {
             System.out.println("Queue not empty");
         }
     }
+    
+    public void abort() {
+        isRunning = false;
+    }
 
     public void doSomething() {
         try {
