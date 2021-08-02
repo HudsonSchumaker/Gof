@@ -5,9 +5,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * @author Hudson Schumaker
- * @since 14/09/2014
  */
-
 public class BecomeActiveObject {
     private double val = 0.0;
     private boolean isRunning;
