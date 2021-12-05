@@ -2,7 +2,6 @@ package br.com.schumaker.concurrencypatterns.activeobject;
 
 /**
  * @author Hudson Schumaker
- * @since 18/09/2014
  */
 public class Client {
 
